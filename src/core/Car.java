@@ -34,7 +34,7 @@ public class Car
     }
     public void setHasVehicle(boolean hasVehicle)
     {
-        this.hasVehicle = hasVehicle; //123123
+        this.hasVehicle = hasVehicle; //1
     }
     public boolean getHasVehicle()
     {
